@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudnikLibrary", "BudnikLibrary\BudnikLibrary.csproj", "{A53DEED3-9B4B-4847-B991-97E4B708A4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudnikLibraryTests", "BudnikLibraryTests\BudnikLibraryTests.csproj", "{696AA45E-5D53-4C2E-8870-A10A2C0BD366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53DEED3-9B4B-4847-B991-97E4B708A4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53DEED3-9B4B-4847-B991-97E4B708A4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53DEED3-9B4B-4847-B991-97E4B708A4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53DEED3-9B4B-4847-B991-97E4B708A4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696AA45E-5D53-4C2E-8870-A10A2C0BD366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696AA45E-5D53-4C2E-8870-A10A2C0BD366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696AA45E-5D53-4C2E-8870-A10A2C0BD366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696AA45E-5D53-4C2E-8870-A10A2C0BD366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
